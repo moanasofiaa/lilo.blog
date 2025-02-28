@@ -7,11 +7,13 @@ image = "foto.jpg"
 +++
 {{<**Zwei Kulturen, zwei Sprachen, zwei Glaubensrichtungen –** Die junge Lehrerin wuchs zwischen italienischen und aramäischen Traditionen auf. In der Schule musste sie sich oft erklären und Vorurteilen begegnen. Heute sieht sie ihre multikulturelle Herkunft als Stärke und erzählt, wie sie gelernt hat, beide Identitäten selbstbewusst zu vereinen.>}}
 
+> "Ich erklärte es oft, aber viele glaubten mir nicht. Irgendwann dachte ich mir: Sollen sie doch denken, was sie wollen."
+
 **Zwei Kulturen, zwei Sprachen, zwei Glaubensrichtungen –** Die junge Lehrerin wuchs zwischen italienischen und aramäischen Traditionen auf. In der Schule musste sie sich oft erklären und Vorurteilen begegnen. Heute sieht sie ihre multikulturelle Herkunft als Stärke und erzählt, wie sie gelernt hat, beide Identitäten selbstbewusst zu vereinen.
 
-**Moana Klakow:** **Hallo Giulia, danke, dass du dir die Zeit nimmst. Magst du dich kurz vorstellen?**
+**Hallo Giulia, danke, dass du dir die Zeit nimmst. Magst du dich kurz vorstellen?**
 
-Giulia Maggiore: Hallo, ich bin Giulia Maggiore, zwanzig Jahre alt, Italienerin und Aramäerin.
+Hallo, ich bin Giulia Maggiore, zwanzig Jahre alt, Italienerin und Aramäerin.
 
 **Wie würdest du deine kulturelle Identität beschreiben?**
 
@@ -33,11 +35,9 @@ Ich bin mit Italienisch und Aramäisch aufgewachsen. Mein Vater sprach Italienis
 
 Manche meinten, Aramäer hätten keine eigene Kultur und hätten alles von den Türken kopiert. Das fand ich unfair, weil unser Volk sehr alt ist.
 
-> "Ich erklärte es oft, aber viele glaubten mir nicht. Irgendwann dachte ich mir: ‚Sollen sie doch denken, was sie wollen."
-
 **Gab es Situationen, in denen du dich zwischen einer Kultur entscheiden musstest?**
 
-Bevorich einen Freund hatte, dachte ich, es wäre wichtig, einen Aramäer zu heiraten, um die Kultur weiterzugeben. Später wurde mir klar, dass es darauf nicht ankommt.
+Bevor ich einen Freund hatte, dachte ich, es wäre wichtig, einen Aramäer zu heiraten, um die Kultur weiterzugeben. Später wurde mir klar, dass es darauf nicht ankommt.
 
 **Gab es in der Schule Momente, in denen du dich fremd gefühlt hast?**
 
