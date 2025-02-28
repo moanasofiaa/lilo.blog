@@ -5,8 +5,6 @@ draft = false
 pinned = false
 image = "foto.jpg"
 +++
-
-
 {{<**Zwei Kulturen, zwei Sprachen, zwei Glaubensrichtungen –** Die junge Lehrerin wuchs zwischen italienischen und aramäischen Traditionen auf. In der Schule musste sie sich oft erklären und Vorurteilen begegnen. Heute sieht sie ihre multikulturelle Herkunft als Stärke und erzählt, wie sie gelernt hat, beide Identitäten selbstbewusst zu vereinen.>}}
 
 **Zwei Kulturen, zwei Sprachen, zwei Glaubensrichtungen –** Die junge Lehrerin wuchs zwischen italienischen und aramäischen Traditionen auf. In der Schule musste sie sich oft erklären und Vorurteilen begegnen. Heute sieht sie ihre multikulturelle Herkunft als Stärke und erzählt, wie sie gelernt hat, beide Identitäten selbstbewusst zu vereinen.
@@ -91,8 +89,6 @@ Beide Kulturen sind mir wichtig, aber meine orthodoxe Seite ist präsenter. Ich 
 
 Danke dir!
 
-![](foto.jpg)
-
 <!--StartFragment-->
 
 {{<box>}}
@@ -102,3 +98,5 @@ Sie ist 20 Jahre alt und lebt in Lengnau. Zurzeit befindet sie sich in der Ausbi
 <!--EndFragment-->
 
 {{</box>}}
+
+![](foto.jpg)
