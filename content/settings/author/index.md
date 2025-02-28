@@ -1,6 +1,6 @@
 +++
 headless = true
-name = "My Name"
-image = "/img/default-author.jpg"
-url = "/about/"
+name = "Moana Klakow"
+image = "/media/manta-rays-332812_1280-1-.jpg"
+url = ""
 +++
