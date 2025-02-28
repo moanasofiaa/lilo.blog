@@ -5,6 +5,10 @@ draft = false
 pinned = false
 image = "foto.jpg"
 +++
+
+
+{{<**Zwei Kulturen, zwei Sprachen, zwei Glaubensrichtungen –** Die junge Lehrerin wuchs zwischen italienischen und aramäischen Traditionen auf. In der Schule musste sie sich oft erklären und Vorurteilen begegnen. Heute sieht sie ihre multikulturelle Herkunft als Stärke und erzählt, wie sie gelernt hat, beide Identitäten selbstbewusst zu vereinen.>}}
+
 **Zwei Kulturen, zwei Sprachen, zwei Glaubensrichtungen –** Die junge Lehrerin wuchs zwischen italienischen und aramäischen Traditionen auf. In der Schule musste sie sich oft erklären und Vorurteilen begegnen. Heute sieht sie ihre multikulturelle Herkunft als Stärke und erzählt, wie sie gelernt hat, beide Identitäten selbstbewusst zu vereinen.
 
 **Moana Klakow:** **Hallo Giulia, danke, dass du dir die Zeit nimmst. Magst du dich kurz vorstellen?**
@@ -86,3 +90,5 @@ Beide Kulturen sind mir wichtig, aber meine orthodoxe Seite ist präsenter. Ich 
 **Danke für das spannende Gespräch, Giulia!**
 
 Danke dir!
+
+![](foto.jpg)
