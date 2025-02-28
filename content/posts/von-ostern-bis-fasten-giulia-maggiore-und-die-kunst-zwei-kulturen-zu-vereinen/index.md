@@ -92,3 +92,13 @@ Beide Kulturen sind mir wichtig, aber meine orthodoxe Seite ist präsenter. Ich 
 Danke dir!
 
 ![](foto.jpg)
+
+<!--StartFragment-->
+
+{{<box>}}
+
+Sie ist 20 Jahre alt und lebt in Lengnau. Zurzeit befindet sie sich in der Ausbildung zur Lehrerin an einer heilpädagogischen Schule. Mit ihrer Entscheidung, diesen Beruf zu ergreifen, möchte sie Kindern mit besonderen Bedürfnissen unterstützen und ihre schulische Entwicklung fördern. In ihrer Ausbildung sammelt sie praktische Erfahrungen, um später als Lehrerin in der Heilpädagogik tätig zu werden.
+
+<!--EndFragment-->
+
+{{</box>}}
