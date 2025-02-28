@@ -1,6 +1,6 @@
 +++
 headless = true
 name = "Moana Klakow"
-image = "/media/manta-rays-332812_1280-1-.jpg"
+image = "/media/sense-atelier-vkzhzb4vdtq-unsplash-2-.jpg"
 url = ""
 +++
