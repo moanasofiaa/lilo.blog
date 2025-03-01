@@ -15,11 +15,13 @@ image = "whatsapp-bild-2025-02-28-um-20.08.38_83d898a1-1-.jpg"
 
 ![Giulia Maggiore (20), sitzend auf einer Bank in der Kirche (Grenchen)](whatsapp-bild-2025-02-28-um-20.08.38_83d898a1-1-.jpg)
 
-`{{</*box*/>}}`
+
+
+{{<box>}}
 
 Sie ist 20 Jahre alt und lebt in Lengnau. Zurzeit befindet sie sich in der Ausbildung zur Lehrerin an einer heilpädagogischen Schule. Mit ihrer Entscheidung, diesen Beruf zu ergreifen, möchte sie Kindern mit besonderen Bedürfnissen unterstützen und ihre schulische Entwicklung fördern. In ihrer Ausbildung sammelt sie praktische Erfahrungen, um später als Lehrerin in der Heilpädagogik tätig zu werden.
 
-`{{</*/box*/>}}`
+{{>box>}}
 
 **Hallo Giulia, danke, dass du dir die Zeit nimmst. Magst du dich kurz vorstellen?**
 
