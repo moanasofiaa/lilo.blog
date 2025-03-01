@@ -5,13 +5,21 @@ draft = false
 pinned = false
 image = "whatsapp-bild-2025-02-28-um-20.08.38_83d898a1-1-.jpg"
 +++
-`{{</*lead*/>}}`**Zwei Kulturen, zwei Sprachen, zwei Glaubensrichtungen –** Die junge Lehrerin wuchs zwischen italienischen und aramäischen Traditionen auf. In der Schule musste sie sich oft erklären und Vorurteilen begegnen. Heute sieht sie ihre multikulturelle Herkunft als Stärke und erzählt, wie sie gelernt hat, beide Identitäten selbstbewusst zu vereinen.`{{</*/lead*/>}}`
+`{{</*lead*/>}}`
+
+**Zwei Kulturen, zwei Sprachen, zwei Glaubensrichtungen –** Die junge Lehrerin wuchs zwischen italienischen und aramäischen Traditionen auf. In der Schule musste sie sich oft erklären und Vorurteilen begegnen. Heute sieht sie ihre multikulturelle Herkunft als Stärke und erzählt, wie sie gelernt hat, beide Identitäten selbstbewusst zu vereinen.
+
+`{{</*/lead*/>}}`
 
 > "Ich erklärte es oft, aber viele glaubten mir nicht. Irgendwann dachte ich mir: Sollen sie doch denken, was sie wollen."
 
 ![Giulia Maggiore (20), sitzend auf einer Bank in der Kirche (Grenchen)](whatsapp-bild-2025-02-28-um-20.08.38_83d898a1-1-.jpg)
 
-`{{</*box*/>}}`Sie ist 20 Jahre alt und lebt in Lengnau. Zurzeit befindet sie sich in der Ausbildung zur Lehrerin an einer heilpädagogischen Schule. Mit ihrer Entscheidung, diesen Beruf zu ergreifen, möchte sie Kindern mit besonderen Bedürfnissen unterstützen und ihre schulische Entwicklung fördern. In ihrer Ausbildung sammelt sie praktische Erfahrungen, um später als Lehrerin in der Heilpädagogik tätig zu werden.`{{</*/box*/>}}`
+`{{</*box*/>}}`
+
+Sie ist 20 Jahre alt und lebt in Lengnau. Zurzeit befindet sie sich in der Ausbildung zur Lehrerin an einer heilpädagogischen Schule. Mit ihrer Entscheidung, diesen Beruf zu ergreifen, möchte sie Kindern mit besonderen Bedürfnissen unterstützen und ihre schulische Entwicklung fördern. In ihrer Ausbildung sammelt sie praktische Erfahrungen, um später als Lehrerin in der Heilpädagogik tätig zu werden.
+
+`{{</*/box*/>}}`
 
 **Hallo Giulia, danke, dass du dir die Zeit nimmst. Magst du dich kurz vorstellen?**
 
@@ -29,9 +37,11 @@ Sehr oft, besonders bei Feiertagen wie Ostern, das in beiden Traditionen zu unte
 
 Ich bin mit Italienisch und Aramäisch aufgewachsen. Mein Vater sprach Italienisch mit mir, meine Mutter Aramäisch. In der Schule merkte ich anfangs, dass ich nicht zur deutschsprachigen Kultur gehörte, weil ich kaum Deutsch konnte. Meine Eltern begannen dann, mehr mit mir auf Deutsch zu sprechen, wodurch meine Italienisch- und Aramäisch-Kenntnisse etwas nachliessen.
 
-**Wie bist du mit Vorurteilen umgegangen?**
+**Wie hast du auf Vorurteile oder Missverständnisse reagiert, die dir in deinen Kulturen begegnet sind?**
 
-Manche meinten, Aramäer hätten keine eigene Kultur und hätten alles von den Türken kopiert. Das fand ich unfair, weil unser Volk sehr alt ist.
+Ein Beispiel ist meine Mutter. Ich hatte ihr gesagt, dass ich unbedingt einen aramäischen Freund möchte. Als ich ihr dann erzählte, dass mein Freund Serbe ist, war sie überrascht und erinnerte mich daran, was ich zuvor gesagt hatte. Es war jedoch kein Vorurteil, sondern eher Verwunderung. Mittlerweile mag sie ihn sehr.
+
+Vor allem von meiner Grossmutter hätte ich schlimmeres erwartet. Da es für sie ungewohnt war, dass meine Mutter mit einem Italiener zusammen war, dachte ich, sie würde vielleicht enttäuscht sein. Doch stattdessen reagierte sie positiv und meinte nur, dass es wichtig sei, dass er orthodox ist – das war für sie das Entscheidende.
 
 **Gab es Situationen, in denen du dich zwischen einer Kultur entscheiden musstest?**
 
@@ -39,7 +49,7 @@ Bevor ich einen Freund hatte, dachte ich, es wäre wichtig, einen Aramäer zu he
 
 **Gab es in der Schule Momente, in denen du dich fremd gefühlt hast?**
 
-Ja, besonders, wenn ich erklären musste, was Aramäer sind. Viele wussten nichts darüber und verglichen uns mit anderen Gruppen wie den Kurden. Manche machten sich darüber lustig, aber ich wusste, dass sie es nicht böse meinten.
+Ja, besonders, wenn ich erklären musste, was Aramäer sind. Viele wussten nichts darüber und verglichen uns mit anderen Gruppen. Manche machten sich darüber lustig und sagten, unser Volk hätte kein eigenes Land mehr und wir haben alles den Kurden und Türken abgeschaut. Dabei ist unsere Kultur viel älter. Ich empfand solche Aussagen als unfair, aber mir war klar, dass es nichts bringt, es immer wieder zu erklären – sie hätten es mir ohnehin nicht geglaubt. Wiederum wusste ich, dass sie oft nicht böse Absichten damit hatten.
 
 **Welche Rolle spielt Sprache für deine Identität?**
 
