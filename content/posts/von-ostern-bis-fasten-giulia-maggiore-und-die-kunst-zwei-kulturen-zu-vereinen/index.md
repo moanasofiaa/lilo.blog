@@ -35,8 +35,6 @@ Ich bin mit Italienisch und Aramäisch aufgewachsen. Mein Vater sprach Italienis
 
 Ein Beispiel ist meine Mutter. Ich hatte ihr gesagt, dass ich unbedingt einen aramäischen Freund möchte. Als ich ihr dann erzählte, dass mein Freund Serbe ist, war sie überrascht und erinnerte mich daran, was ich zuvor gesagt hatte. Es war jedoch kein Vorurteil, sondern eher Verwunderung. Mittlerweile mag sie ihn sehr.
 
-Vor allem von meiner Grossmutter hätte ich schlimmeres erwartet. Da es für sie ungewohnt war, dass meine Mutter mit einem Italiener zusammen war, dachte ich, sie würde vielleicht enttäuscht sein. Doch stattdessen reagierte sie positiv und meinte nur, dass es wichtig sei, dass er orthodox ist – das war für sie das Entscheidende.
-
 **Gab es Situationen, in denen du dich zwischen einer Kultur entscheiden musstest?**
 
 Bevor ich einen Freund hatte, dachte ich, es wäre wichtig, einen Aramäer zu heiraten, um die Kultur weiterzugeben. Später wurde mir klar, dass es darauf nicht ankommt.
