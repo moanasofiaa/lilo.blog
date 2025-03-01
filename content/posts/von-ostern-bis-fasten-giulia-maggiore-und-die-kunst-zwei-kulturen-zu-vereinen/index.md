@@ -11,6 +11,12 @@ image = "whatsapp-bild-2025-02-28-um-20.08.38_83d898a1-1-.jpg"
 
 ![Giulia Maggiore (20), angehende Lehrerin in einer Heilpädagogischen Schule](whatsapp-bild-2025-02-28-um-20.08.38_83d898a1-1-.jpg)
 
+{{<box>}}
+
+Sie ist 20 Jahre alt und lebt in Lengnau. Zurzeit befindet sie sich in der Ausbildung zur Lehrerin an einer heilpädagogischen Schule. Mit ihrer Entscheidung, diesen Beruf zu ergreifen, möchte sie Kindern mit besonderen Bedürfnissen unterstützen und ihre schulische Entwicklung fördern. In ihrer Ausbildung sammelt sie praktische Erfahrungen, um später als Lehrerin in der Heilpädagogik tätig zu werden.
+
+{{</box>}}
+
 **Hallo Giulia, danke, dass du dir die Zeit nimmst. Magst du dich kurz vorstellen?**
 
 Hallo, ich bin Giulia Maggiore, zwanzig Jahre alt, Italienerin und Aramäerin.
@@ -18,10 +24,6 @@ Hallo, ich bin Giulia Maggiore, zwanzig Jahre alt, Italienerin und Aramäerin.
 **Wie würdest du deine kulturelle Identität beschreiben?**
 
 Mein Vater ist Italiener und katholisch. Meine Mutter ist Aramäerin und orthodox, und ich wurde orthodox getauft. Ich fühle mich beiden Kulturen verbunden, aber religiös ist die orthodoxe Seite präsenter.
-
-**Kannst du ein Beispiel dafür nennen?**
-
-Zum Beispiel besuchen wir als Familie immer die orthodoxe Kirche. Mein Vater ist nicht besonders gläubig, also begleitet er uns meistens dorthin, anstatt in eine katholische Kirche zu gehen.
 
 **Wann hast du das letzte Mal bewusst wahrgenommen, dass du zwischen zwei Kulturen aufwächst?**
 
@@ -88,15 +90,5 @@ Beide Kulturen sind mir wichtig, aber meine orthodoxe Seite ist präsenter. Ich 
 **Danke für das spannende Gespräch, Giulia!**
 
 Danke dir!
-
-<!--StartFragment-->
-
-{{<box>}}
-
-Sie ist 20 Jahre alt und lebt in Lengnau. Zurzeit befindet sie sich in der Ausbildung zur Lehrerin an einer heilpädagogischen Schule. Mit ihrer Entscheidung, diesen Beruf zu ergreifen, möchte sie Kindern mit besonderen Bedürfnissen unterstützen und ihre schulische Entwicklung fördern. In ihrer Ausbildung sammelt sie praktische Erfahrungen, um später als Lehrerin in der Heilpädagogik tätig zu werden.
-
-<!--EndFragment-->
-
-{{</box>}}
 
 ![]()
