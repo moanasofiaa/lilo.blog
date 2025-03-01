@@ -5,19 +5,13 @@ draft = false
 pinned = false
 image = "whatsapp-bild-2025-02-28-um-20.08.38_83d898a1-1-.jpg"
 +++
-`{{</*lead*/>}}`
-
-**Zwei Kulturen, zwei Sprachen, zwei Glaubensrichtungen –** Die junge Lehrerin wuchs zwischen italienischen und aramäischen Traditionen auf. In der Schule musste sie sich oft erklären und Vorurteilen begegnen. Heute sieht sie ihre multikulturelle Herkunft als Stärke und erzählt, wie sie gelernt hat, beide Identitäten selbstbewusst zu vereinen.
-
-`{{</*/lead*/>}}`
+`{{</*lead*/>}}`**Zwei Kulturen, zwei Sprachen, zwei Glaubensrichtungen –** Die junge Lehrerin wuchs zwischen italienischen und aramäischen Traditionen auf. In der Schule musste sie sich oft erklären und Vorurteilen begegnen. Heute sieht sie ihre multikulturelle Herkunft als Stärke und erzählt, wie sie gelernt hat, beide Identitäten selbstbewusst zu vereinen.`{{</*/lead*/>}}`
 
 > "Ich erklärte es oft, aber viele glaubten mir nicht. Irgendwann dachte ich mir: Sollen sie doch denken, was sie wollen."
 
 ![Giulia Maggiore (20), sitzend auf einer Bank in der Kirche (Grenchen)](whatsapp-bild-2025-02-28-um-20.08.38_83d898a1-1-.jpg)
 
-
-
-{{<box>}} Sie ist 20 Jahre alt und lebt in Lengnau. Zurzeit befindet sie sich in der Ausbildung zur Lehrerin an einer heilpädagogischen Schule. Mit ihrer Entscheidung, diesen Beruf zu ergreifen, möchte sie Kindern mit besonderen Bedürfnissen unterstützen und ihre schulische Entwicklung fördern. In ihrer Ausbildung sammelt sie praktische Erfahrungen, um später als Lehrerin in der Heilpädagogik tätig zu werden. {{>box>}}
+Sie ist 20 Jahre alt und lebt in Lengnau. Zurzeit befindet sie sich in der Ausbildung zur Lehrerin an einer heilpädagogischen Schule. Mit ihrer Entscheidung, diesen Beruf zu ergreifen, möchte sie Kindern mit besonderen Bedürfnissen unterstützen und ihre schulische Entwicklung fördern. In ihrer Ausbildung sammelt sie praktische Erfahrungen, um später als Lehrerin in der Heilpädagogik tätig zu werden.
 
 **Hallo Giulia, danke, dass du dir die Zeit nimmst. Magst du dich kurz vorstellen?**
 
